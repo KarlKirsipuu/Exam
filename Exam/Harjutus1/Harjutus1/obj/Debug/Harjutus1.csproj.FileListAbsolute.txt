@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\C#\Exam\Harjutus1\Harjutus1\bin\Debug\Harjutus1.exe.config
+C:\Users\admin\Desktop\C#\Exam\Harjutus1\Harjutus1\bin\Debug\Harjutus1.exe
+C:\Users\admin\Desktop\C#\Exam\Harjutus1\Harjutus1\bin\Debug\Harjutus1.pdb
+C:\Users\admin\Desktop\C#\Exam\Harjutus1\Harjutus1\obj\Debug\Harjutus1.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\C#\Exam\Harjutus1\Harjutus1\obj\Debug\Harjutus1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\C#\Exam\Harjutus1\Harjutus1\obj\Debug\Harjutus1.exe
+C:\Users\admin\Desktop\C#\Exam\Harjutus1\Harjutus1\obj\Debug\Harjutus1.pdb
